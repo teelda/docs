@@ -28,7 +28,7 @@ No other ODK-X Android tools are prerequisites to installing :doc:`services-usin
 Recommended
 ~~~~~~~~~~~~~~~
 
-We also recommend installing both :ref:`ODK-X Survey<survey-using>` and :ref:`ODK-X Tables<tables-using>`. Having both is not required, but Tables and Survey are most versatile when used together. Tables offers a way to visualize, process, and modify data collected by Survey, all on the device. Survey offers a simple, form-based data collected workflow similar to ODK Collect that can be seamlessly integrated with Tables to create and modify records.
+We also recommend installing both :ref:`ODK-X Survey<survey-using>` and :ref:`ODK-X Tables<tables-using>`. Having both is not required, but Tables and Survey are most versatile when used together. Tables offer a way to visualize, process, and modify data collected by Survey, all on the device. Survey offers a simple, form-based data collected workflow similar to ODK Collect that can be seamlessly integrated with Tables to create and modify records.
 
 .. _services-install:
 
