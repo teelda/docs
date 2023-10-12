@@ -232,7 +232,7 @@ For Windows
   #. Open a Windows File Explorer and navigate to the location of your :file:`Android` folder. This will typically be at one of: :file:`C:\\Users\\your_username\\Android` or :file:`C:\\Program Files\\Android` or :file:`C:\\Program Files (x86)\\Android`.
   #. Navigate into the :file:`platform-tools` folder.
   #. Click in the file path at the top of the File Explorer window. The path will become a selected text string. Copy it into your copy-and-paste buffer.
-  #. In the File Explorer, right-click on :guilabel:`This PC`.
+  #. In the File Explorer/File Browser (select the file icon from the task bar or start menu, or press the windows logo key + E on your keyboard), then right-click on :guilabel:`This PC`.
   #. Choose :guilabel:`Properties`. The About screen in Settings opens.
   #. Scroll down and click on :guilabel:`Advanced system setting` under :guilabel:`Related settings`. The System Properties dialog opens.
   #. Click on the :guilabel:`Environment Variables...` button at the bottom of the screen. The Environment Variables dialog opens.
